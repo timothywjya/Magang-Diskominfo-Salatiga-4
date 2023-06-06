@@ -1,0 +1,25 @@
+h1,
+h2 {
+    text-align: center;
+}
+
+.main-container {
+    margin-top: 2%;
+    background-color: #c0c0c0;
+    border-radius: 25px;
+}
+
+.banner-gor-form {
+    background-color: 0099FF;
+    color: #ddd;
+    border-radius: 25px;
+}
+
+.form-group {
+    padding-bottom: 1%;
+}
+
+.form-group-nik {
+    padding-top: 2%;
+    padding-bottom: 1%;
+}

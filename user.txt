@@ -1,0 +1,2 @@
+email : admin@sigora.com
+password : bunga123

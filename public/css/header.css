@@ -1,0 +1,40 @@
+.logo-salatiga {
+    width: 50%;
+    height: 70%;
+    margin: 0 auto;
+    display: block;
+}
+
+.col-logo {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    display: block;
+}
+
+.row-content {
+    height: min-content;
+}
+
+.header-blue {
+    background-color: #0099FF;
+    height: 20%;
+}
+
+.title,
+.subtitle {
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.col-content {
+    padding-top: 2%;
+    padding-bottom: 5%;
+}
+
+.title {
+    font-size: x-large;
+}
+
+.subtitle {
+    font-size: large;
+}
